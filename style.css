@@ -1,0 +1,50 @@
+body {
+    background-color: cadetblue;
+    margin: 0;
+}
+h1,
+h2 {
+    font-family: "Oswald", sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+/* úvodní obrázek*/
+.uvodni {
+    width: 350px;
+    margin-right: 20px;
+    float: left;
+    border-radius: 50px 0px 50px 0px;
+}
+.sekce1 {
+    background-color: cornsilk;
+    overflow: auto;
+    padding: 20px 10px;
+}
+
+.sekce2 {
+    overflow: auto;
+    padding: 20px 10px;
+}
+
+.menu {
+    padding: 20px 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: gray;
+    padding: 5px;
+}
+a {
+    text-decoration: 0;
+    color: crimson;
+}
+
+a:hover {
+    background-color: darkkhaki;
+}
